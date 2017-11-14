@@ -85,8 +85,7 @@
         "recipeId": 10,
         "recipeName": "Parsnips and Pork",
          "description": "A very, very satisfying meal, and so delicious, but Seconds are a no-no. Eat something every few hours.", 
-        // I make this a lot now, but in the <a href=&quot;http://www.powerpressurecooker.com&quot; target=&quotpressureCooker&quot>Pressure Cooker XL</a>. With a pressure cooker, it takes longer to cut up the meat and vegetables than it does to cook the meal. Amd if you re like me, and you regularly forget to take something out for dinner, you can use frozen pork in the  pressure cooker and it takes only a few minutes longer. Dinner in 15 minutes... Wow!",
-        "categoryFilter": "dinner",
+         "categoryFilter": "dinner",
         "starRating": 4.0,
         "imageUrl": "assets/images/recipes/baked-yam-chips.jpg",
         "pdfUrl": "assets/pdfs/Parsnips.and.Pork.pdf"
